@@ -1,0 +1,1100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Scorcher\\source\\repos\\Excel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\functions\\examplefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\functions\\examplefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\classes\\formulamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\classes\\formulamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\classes\\functionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\classes\\functionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|C:\\Users\\Scorcher\\source\\repos\\Excel\\excel\\implementation\\winforms\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\classes\\importmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\classes\\importmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\classes\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\classes\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\classes\\exportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\classes\\exportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\winforms\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B32707-9866-A609-E7F9-960A3138FF27}|Excel.Tests\\Excel.Tests.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.tests\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B32707-9866-A609-E7F9-960A3138FF27}|Excel.Tests\\Excel.Tests.csproj|solutionrelative:excel.tests\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.server\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|solutionrelative:excel.server\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\functions\\avgfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\functions\\avgfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\winforms\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|C:\\Users\\Scorcher\\source\\repos\\Excel\\excel\\implementation\\winforms\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\winforms\\registermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\registermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|C:\\Users\\Scorcher\\source\\repos\\Excel\\excel\\implementation\\winforms\\registermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\registermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\winforms\\newfilemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\newfilemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|C:\\Users\\Scorcher\\source\\repos\\Excel\\excel\\implementation\\winforms\\newfilemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\newfilemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\abstraction\\itable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\abstraction\\itable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\abstraction\\isettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\abstraction\\isettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\abstraction\\isessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\abstraction\\isessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\abstraction\\ifunctionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\abstraction\\ifunctionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\abstraction\\ifunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\abstraction\\ifunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\abstraction\\iformulamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\abstraction\\iformulamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\abstraction\\icellsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\abstraction\\icellsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\abstraction\\icellobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\abstraction\\icellobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\abstraction\\iaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\abstraction\\iaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7820209-41E0-4B4A-99DC-C865E0812ACD}|Excel.Shared\\Excel.Shared.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.shared\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7820209-41E0-4B4A-99DC-C865E0812ACD}|Excel.Shared\\Excel.Shared.csproj|solutionrelative:excel.shared\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|C:\\Users\\Scorcher\\source\\repos\\Excel\\excel\\implementation\\winforms\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\classes\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\classes\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B32707-9866-A609-E7F9-960A3138FF27}|Excel.Tests\\Excel.Tests.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.tests\\mock\\testtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B32707-9866-A609-E7F9-960A3138FF27}|Excel.Tests\\Excel.Tests.csproj|solutionrelative:excel.tests\\mock\\testtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7820209-41E0-4B4A-99DC-C865E0812ACD}|Excel.Shared\\Excel.Shared.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.shared\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7820209-41E0-4B4A-99DC-C865E0812ACD}|Excel.Shared\\Excel.Shared.csproj|solutionrelative:excel.shared\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.server\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|solutionrelative:excel.server\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|solutionrelative:excel.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\classes\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\classes\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\functions\\sumfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\functions\\sumfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\functions\\countfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\functions\\countfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\classes\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\classes\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\classes\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\classes\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.server\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|solutionrelative:excel.server\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\entities\\tabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\entities\\tabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.server\\migrations\\20251224102548_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|solutionrelative:excel.server\\migrations\\20251224102548_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.server\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|solutionrelative:excel.server\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.server\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|solutionrelative:excel.server\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|solutionrelative:excel.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.server\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|solutionrelative:excel.server\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\winforms\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7820209-41E0-4B4A-99DC-C865E0812ACD}|Excel.Shared\\Excel.Shared.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.shared\\dto\\sessionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7820209-41E0-4B4A-99DC-C865E0812ACD}|Excel.Shared\\Excel.Shared.csproj|solutionrelative:excel.shared\\dto\\sessionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7820209-41E0-4B4A-99DC-C865E0812ACD}|Excel.Shared\\Excel.Shared.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.shared\\dto\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7820209-41E0-4B4A-99DC-C865E0812ACD}|Excel.Shared\\Excel.Shared.csproj|solutionrelative:excel.shared\\dto\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B32707-9866-A609-E7F9-960A3138FF27}|Excel.Tests\\Excel.Tests.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.tests\\excel.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9B32707-9866-A609-E7F9-960A3138FF27}|Excel.Tests\\Excel.Tests.csproj|solutionrelative:excel.tests\\excel.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\entities\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\entities\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B32707-9866-A609-E7F9-960A3138FF27}|Excel.Tests\\Excel.Tests.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.tests\\utils\\formulafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B32707-9866-A609-E7F9-960A3138FF27}|Excel.Tests\\Excel.Tests.csproj|solutionrelative:excel.tests\\utils\\formulafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B32707-9866-A609-E7F9-960A3138FF27}|Excel.Tests\\Excel.Tests.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.tests\\excel.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E9B32707-9866-A609-E7F9-960A3138FF27}|Excel.Tests\\Excel.Tests.csproj|solutionrelative:excel.tests\\excel.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\excel.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\excel.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\winforms\\registermenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\registermenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\winforms\\newfilemenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\newfilemenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.server\\excel.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{888FEF80-EFE4-4D2D-A5AE-C894056B18B2}|Excel.Server\\Excel.Server.csproj|solutionrelative:excel.server\\excel.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7820209-41E0-4B4A-99DC-C865E0812ACD}|Excel.Shared\\Excel.Shared.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel.shared\\excel.shared.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A7820209-41E0-4B4A-99DC-C865E0812ACD}|Excel.Shared\\Excel.Shared.csproj|solutionrelative:excel.shared\\excel.shared.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\excel.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\excel.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\winforms\\loginmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\loginmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|c:\\users\\scorcher\\source\\repos\\excel\\excel\\implementation\\winforms\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D7524-F8A3-4FF9-820C-FC04F288A1A1}|Excel\\Excel.Core.csproj|solutionrelative:excel\\implementation\\winforms\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\MainMenu.cs",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\MainMenu.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAAACQBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:33:11.639Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\MainMenu.cs [Design]",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:15:00.517Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormulaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\FormulaManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Classes\\FormulaManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\FormulaManager.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Classes\\FormulaManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T06:22:38.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FunctionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\FunctionManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Classes\\FunctionManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\FunctionManager.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Classes\\FunctionManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:56:57.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExampleFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Functions\\ExampleFunction.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Functions\\ExampleFunction.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Functions\\ExampleFunction.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Functions\\ExampleFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:53:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\ImportManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Classes\\ImportManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\ImportManager.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Classes\\ImportManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:17:01.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\FileManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Classes\\FileManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\FileManager.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Classes\\FileManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:16:54.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\ExportManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Classes\\ExportManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\ExportManager.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Classes\\ExportManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:17:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Tests\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Excel.Tests\\Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Tests\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Excel.Tests\\Tests\\UnitTest1.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAYwDwBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:40:40.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "License.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Models\\License.cs",
+              "RelativeDocumentMoniker": "Excel.Server\\Models\\License.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Models\\License.cs",
+              "RelativeToolTip": "Excel.Server\\Models\\License.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:44:04.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AvgFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Functions\\AvgFunction.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Functions\\AvgFunction.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Functions\\AvgFunction.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Functions\\AvgFunction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:23:51.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\SettingsMenu.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\SettingsMenu.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\SettingsMenu.cs",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\SettingsMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:06:29.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingsMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\SettingsMenu.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\SettingsMenu.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\SettingsMenu.cs [Design]",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\SettingsMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:11:12.714Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\RegisterMenu.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\RegisterMenu.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\RegisterMenu.cs",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\RegisterMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:53:28.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\RegisterMenu.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\RegisterMenu.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\RegisterMenu.cs [Design]",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\RegisterMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:53:23.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NewFileMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\NewFileMenu.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\NewFileMenu.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\NewFileMenu.cs",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\NewFileMenu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:50:12.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NewFileMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\NewFileMenu.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\NewFileMenu.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\NewFileMenu.cs [Design]",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\NewFileMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:11:26.488Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITable.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\ITable.cs",
+              "RelativeDocumentMoniker": "Excel\\Abstraction\\ITable.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\ITable.cs",
+              "RelativeToolTip": "Excel\\Abstraction\\ITable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:47:45.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISettingsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\ISettingsManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Abstraction\\ISettingsManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\ISettingsManager.cs",
+              "RelativeToolTip": "Excel\\Abstraction\\ISettingsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:09:45.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ISessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\ISessionManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Abstraction\\ISessionManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\ISessionManager.cs",
+              "RelativeToolTip": "Excel\\Abstraction\\ISessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:47:43.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFunctionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\IFunctionManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Abstraction\\IFunctionManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\IFunctionManager.cs",
+              "RelativeToolTip": "Excel\\Abstraction\\IFunctionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:47:38.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\IFunction.cs",
+              "RelativeDocumentMoniker": "Excel\\Abstraction\\IFunction.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\IFunction.cs",
+              "RelativeToolTip": "Excel\\Abstraction\\IFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:47:39.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFormulaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\IFormulaManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Abstraction\\IFormulaManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\IFormulaManager.cs",
+              "RelativeToolTip": "Excel\\Abstraction\\IFormulaManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:39:41.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICellSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\ICellSubject.cs",
+              "RelativeDocumentMoniker": "Excel\\Abstraction\\ICellSubject.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\ICellSubject.cs",
+              "RelativeToolTip": "Excel\\Abstraction\\ICellSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:39:42.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICellObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\ICellObserver.cs",
+              "RelativeDocumentMoniker": "Excel\\Abstraction\\ICellObserver.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\ICellObserver.cs",
+              "RelativeToolTip": "Excel\\Abstraction\\ICellObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:47:30.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\IAccountManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Abstraction\\IAccountManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Abstraction\\IAccountManager.cs",
+              "RelativeToolTip": "Excel\\Abstraction\\IAccountManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:38:00.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Shared\\DTO\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Excel.Shared\\DTO\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Shared\\DTO\\RegisterRequest.cs",
+              "RelativeToolTip": "Excel.Shared\\DTO\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:13:58.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\LoginMenu.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\LoginMenu.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\LoginMenu.cs [Design]",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\LoginMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:48:10.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Classes\\SettingsManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\SettingsManager.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Classes\\SettingsManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:08:35.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TestTable.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Tests\\Mock\\TestTable.cs",
+              "RelativeDocumentMoniker": "Excel.Tests\\Mock\\TestTable.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Tests\\Mock\\TestTable.cs",
+              "RelativeToolTip": "Excel.Tests\\Mock\\TestTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:41:03.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Shared\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Excel.Shared\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Shared\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "Excel.Shared\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:13:53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Excel.Server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Excel.Server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:35:22.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Excel.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Excel.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:39:25.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TableManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\TableManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Classes\\TableManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\TableManager.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Classes\\TableManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:50:51.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SumFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Functions\\SumFunction.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Functions\\SumFunction.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Functions\\SumFunction.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Functions\\SumFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:37:22.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CountFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Functions\\CountFunction.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Functions\\CountFunction.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Functions\\CountFunction.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Functions\\CountFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:37:14.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Classes\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\SessionManager.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Classes\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T06:24:21.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\AccountManager.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Classes\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Classes\\AccountManager.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Classes\\AccountManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:41:19.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "Excel.Server\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Models\\Session.cs",
+              "RelativeToolTip": "Excel.Server\\Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:52:42.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Entities\\Session.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Entities\\Session.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Entities\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:54:46.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TableData.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Entities\\TableData.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Entities\\TableData.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Entities\\TableData.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Entities\\TableData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:16:16.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Entities\\User.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:28:05.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251224102548_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Migrations\\20251224102548_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Excel.Server\\Migrations\\20251224102548_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Migrations\\20251224102548_InitialCreate.cs",
+              "RelativeToolTip": "Excel.Server\\Migrations\\20251224102548_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:25:53.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Data\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "Excel.Server\\Data\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Data\\DbContextFactory.cs",
+              "RelativeToolTip": "Excel.Server\\Data\\DbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:41:12.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Excel.Server\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Services\\AuthService.cs",
+              "RelativeToolTip": "Excel.Server\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwFcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:47:15.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Excel.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Models\\User.cs",
+              "RelativeToolTip": "Excel.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:43:01.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Services\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Excel.Server\\Services\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Services\\TokenGenerator.cs",
+              "RelativeToolTip": "Excel.Server\\Services\\TokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:08:26.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Program.cs",
+              "RelativeDocumentMoniker": "Excel\\Program.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Program.cs",
+              "RelativeToolTip": "Excel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:29:55.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\LoginMenu.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\LoginMenu.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\LoginMenu.cs",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\LoginMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:53:34.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SessionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Shared\\DTO\\SessionResponse.cs",
+              "RelativeDocumentMoniker": "Excel.Shared\\DTO\\SessionResponse.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Shared\\DTO\\SessionResponse.cs",
+              "RelativeToolTip": "Excel.Shared\\DTO\\SessionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:14:01.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Shared\\DTO\\UserData.cs",
+              "RelativeDocumentMoniker": "Excel.Shared\\DTO\\UserData.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Shared\\DTO\\UserData.cs",
+              "RelativeToolTip": "Excel.Shared\\DTO\\UserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:17:52.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Excel.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Tests\\Excel.Tests.csproj",
+              "RelativeDocumentMoniker": "Excel.Tests\\Excel.Tests.csproj",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Tests\\Excel.Tests.csproj",
+              "RelativeToolTip": "Excel.Tests\\Excel.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T14:43:06.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Entities\\Table.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\Entities\\Table.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\Entities\\Table.cs",
+              "RelativeToolTip": "Excel\\Implementation\\Entities\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:26:57.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormulaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Tests\\Utils\\FormulaFactory.cs",
+              "RelativeDocumentMoniker": "Excel.Tests\\Utils\\FormulaFactory.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Tests\\Utils\\FormulaFactory.cs",
+              "RelativeToolTip": "Excel.Tests\\Utils\\FormulaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:45:47.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Excel.Tests",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Tests\\Excel.Tests.csproj",
+              "RelativeDocumentMoniker": "Excel.Tests\\Excel.Tests.csproj",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Tests\\Excel.Tests.csproj",
+              "RelativeToolTip": "Excel.Tests\\Excel.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T14:42:11.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEsAAADOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-10T14:41:42.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Excel.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Excel.Core.csproj",
+              "RelativeDocumentMoniker": "Excel\\Excel.Core.csproj",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Excel.Core.csproj",
+              "RelativeToolTip": "Excel\\Excel.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T05:59:45.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RegisterMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\RegisterMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\RegisterMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\RegisterMenu.Designer.cs",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\RegisterMenu.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwJcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:51:12.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "NewFileMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\NewFileMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\NewFileMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\NewFileMenu.Designer.cs",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\NewFileMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:32:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Excel.Shared",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Shared\\Excel.Shared.csproj",
+              "RelativeDocumentMoniker": "Excel.Shared\\Excel.Shared.csproj",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Shared\\Excel.Shared.csproj",
+              "RelativeToolTip": "Excel.Shared\\Excel.Shared.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T13:16:14.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Excel.Server",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Excel.Server.csproj",
+              "RelativeDocumentMoniker": "Excel.Server\\Excel.Server.csproj",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel.Server\\Excel.Server.csproj",
+              "RelativeToolTip": "Excel.Server\\Excel.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T05:40:33.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Excel.Core",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Excel.Core.csproj",
+              "RelativeDocumentMoniker": "Excel\\Excel.Core.csproj",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Excel.Core.csproj",
+              "RelativeToolTip": "Excel\\Excel.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T05:40:23.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoginMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\LoginMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\LoginMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\LoginMenu.Designer.cs",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\LoginMenu.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAIAwwGkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:47:55.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "MainMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\MainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Excel\\Implementation\\WinForms\\MainMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Scorcher\\source\\repos\\Excel\\Excel\\Implementation\\WinForms\\MainMenu.Designer.cs",
+              "RelativeToolTip": "Excel\\Implementation\\WinForms\\MainMenu.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwNIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:30:59.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\Scorcher\source\repos\Excel\Excel\bin\Debug\net9.0-windows\Excel.Core.exe
+C:\Users\Scorcher\source\repos\Excel\Excel\bin\Debug\net9.0-windows\Excel.Core.deps.json
+C:\Users\Scorcher\source\repos\Excel\Excel\bin\Debug\net9.0-windows\Excel.Core.runtimeconfig.json
+C:\Users\Scorcher\source\repos\Excel\Excel\bin\Debug\net9.0-windows\Excel.Core.dll
+C:\Users\Scorcher\source\repos\Excel\Excel\bin\Debug\net9.0-windows\Excel.Core.pdb
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\Excel.Form1.resources
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\Excel.Core.csproj.GenerateResource.cache
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\Excel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\Excel.Core.AssemblyInfoInputs.cache
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\Excel.Core.AssemblyInfo.cs
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\Excel.Core.csproj.CoreCompileInputs.cache
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\Excel.Core.dll
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\refint\Excel.Core.dll
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\Excel.Core.pdb
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\Excel.Core.genruntimeconfig.cache
+C:\Users\Scorcher\source\repos\Excel\Excel\obj\Debug\net9.0-windows\ref\Excel.Core.dll

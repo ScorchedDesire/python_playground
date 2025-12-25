@@ -1,0 +1,11 @@
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\bin\Debug\net10.0\Excel.Shared.deps.json
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\bin\Debug\net10.0\Excel.Shared.dll
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\bin\Debug\net10.0\Excel.Shared.pdb
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\obj\Debug\net10.0\Excel.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\obj\Debug\net10.0\Excel.Shared.AssemblyInfoInputs.cache
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\obj\Debug\net10.0\Excel.Shared.AssemblyInfo.cs
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\obj\Debug\net10.0\Excel.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\obj\Debug\net10.0\Excel.Shared.dll
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\obj\Debug\net10.0\refint\Excel.Shared.dll
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\obj\Debug\net10.0\Excel.Shared.pdb
+C:\Users\Scorcher\source\repos\Excel\Excel.Shared\obj\Debug\net10.0\ref\Excel.Shared.dll
